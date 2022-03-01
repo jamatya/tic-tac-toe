@@ -1,7 +1,5 @@
-import React, { Component } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
-import Square from './components/square';
-import Board from './components/board';
 import Game from './components/game';
 
 import './index.css';
